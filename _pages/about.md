@@ -3,6 +3,17 @@ permalink: /about/
 title: "About"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+Hi, my name is Gwen!
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+I work in cybersecurity with a focus on reducing risk through scalable design and repeatable practice, particularly across vulnerability management, configuration management, and application security. My current focus is exploring the connection between architecture and governance: how standards become implementable controls, how exceptions are evaluated, and how security decisions hold up under operational constraints.
+
+## Topics I'm Exploring
+- **Vulnerability management:** intake > prioritization > remediation SLAs > validation > metrics
+- **Configuration management:** baselines, drift detection, secure by default principles, exception handling
+- **Application security:** thread modeling, secure design reviews, SDLC quality gates, dependecy risk
+- **Architecture + GRC:** control mapping, evidence strategy, risk acceptance decisions, governance workflows
+- **General security topics:** ideas, lessons learned, and emerging issues that shape day to day security work
+
+## Contact
+- **Linkedin:** [Gwendolyn Chu](https://www.linkedin.com/in/gwendolynchu)
+- **Email:** [gwendolyn.chu@gmail.com](mailto:gwendolyn.chu@gmail.com)

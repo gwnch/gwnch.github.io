@@ -44,7 +44,7 @@ plugins:
 author:
   name   : "Gwendolyn Chu"
   avatar : "/assets/images/headshot.jpg"
-  bio    : "Thoughts on cybersecurity, systems, and leadership."
+  bio    : "Thoughts on cybersecurity, leadership, and life lessons."
   links:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin-in"

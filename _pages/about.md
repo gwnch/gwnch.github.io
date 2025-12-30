@@ -5,7 +5,9 @@ title: "About"
 
 Hi, my name is Gwen!
 
-I work in cybersecurity with a focus on reducing risk through scalable design and repeatable practice, particularly across vulnerability management, configuration management, and application security. My current focus is exploring the connection between architecture and governance: how standards become implementable controls, how exceptions are evaluated, and how security decisions hold up under operational constraints.
+I work in cybersecurity with a focus on reducing risk through scalable design and repeatable practice - particularly across vulnerability management, configuration management, and application security.
+
+Here, I write about my reflections and what I've learned over the years.
 
 ## Topics I'm exploring
 - **Vulnerability management:** intake > prioritization > remediation SLAs > validation > metrics

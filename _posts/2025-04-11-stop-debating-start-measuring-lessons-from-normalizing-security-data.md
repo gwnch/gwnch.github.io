@@ -34,13 +34,13 @@ It also helped us operate more effectively even without a perfect CMDB. A strong
 Normalization made it possible to prove (or disprove) things we previously treated as common knowledge:
 - **“All assets are scanned.”** We found missing ranges and gaps in coverage.
 - **“We detect new critical vulnerabilities within a day.”** In some cases, detection lagged by more than a week after public disclosure.
-- **“Teams are notified within one day of detection.”** Only true a small percentage of the time
+- **“Teams are notified within one day of detection.”** Only true a small percentage of the time.
 
 ## A misconception I heard often
 One recurring misconception in conversations was that single pane of glass means fewer tools. Sometimes it does, but often it doesn’t. In practice, it’s about normalizing and reconciling data across systems so you can make consistent decisions. Depending on your environment, that may require additional integration work, better data hygiene, or yes, sometimes another tool.
 
 ## What I’d do differently next time
 - Share a clearer maturity path for inventory quality (crawl → walk → run), including minimum viable inventory fields
-- Spend more time on why these initiatives stall in the real world, such as ownership, duplicate assets, drift, and unclear decision rights, and what to do about it
+- Spend more time on why these initiatives stall in the real world, such as ownership, duplicate assets, drift, and unclear decision rights, and what to do about it.
 
 The biggest lesson I left with is that most teams don’t have a tooling problem, they have a lack of visibility problem. A normalized view of your environment doesn’t magically fix everything, but it makes reality measurable. Once you can measure reality, you can stop arguing about it and start improving it.

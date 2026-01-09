@@ -24,6 +24,7 @@ It also helped us operate more effectively even without a perfect CMDB. A strong
 - Chasing alerts and new critical vulnerabilities as they appeared
 - Inconsistent scope (repeated back-and-forth on whether we owned an asset)
 - Remediation debates with inconsistent reporting
+
 ### After (not perfect, but meaningfully better)
 - Validating assumptions quickly (coverage, exposure, posture)
 - Prioritizing and sharing results with more confidence
